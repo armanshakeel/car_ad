@@ -1,0 +1,5 @@
+pipenv
+django
+db-sqlite3
+djangorestframework
+
